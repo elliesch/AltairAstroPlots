@@ -2,11 +2,15 @@
 
 # Altair plot hack
 
+![summary](figures/summary_slide.png)
+
 ## Context
 
-Hack at [AstroHackWeek2017][ahw17] about reproducing some generic
-astronomical figures -- originally written with the [matplotlib][mpl] library --
-with the declarative visualization library called [Altair][altair].
+Hack at [AstroHackWeek2017][ahw17] about reproducing existing astronomical
+figures with the declarative visualization library called [Altair][altair].
+
+[ahw17]: https://github.com/AstroHackWeek/AstroHackWeek2017/wiki
+[altair]: https://altair-viz.github.io/
 
 ## Notebooks
 
@@ -18,12 +22,8 @@ with the declarative visualization library called [Altair][altair].
 
 ## Contributors
 
-* Ellianna Schwab
-* Itamar Reis
-* Alexandre Boucaud
+* Ellianna Schwab @elliesch
+* Itamar Reis @ireis
+* Alexandre Boucaud @aboucaud
 
-
-[ahw17]: https://github.com/AstroHackWeek/AstroHackWeek2017/wiki
-[mpl]: http://matplotlib.org/
-[altair]: https://altair-viz.github.io/
-
+with help and original idea from Jake VanderPlas @jakevdp
